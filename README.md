@@ -19,7 +19,7 @@ A RESTful API built with Node.js, Express, and MongoDB for managing book reviews
 1. Clone or download this project
 2. Install dependencies:
    ```bash
-   npm install jsonwebtoken express dotenv bcrypt nodemon
+   npm install jsonwebtoken express dotenv bcrypt
    ```
 
 3. Create a `.env` file in the root directory:
