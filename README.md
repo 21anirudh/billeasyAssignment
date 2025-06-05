@@ -50,7 +50,7 @@ curl -X POST http://localhost:3000/signup \
 ```bash
 curl -X POST http://localhost:3000/login \
   -H "Content-Type: application/json" \
-  -d '{"email":"test@example.com","password":"password123"}'
+  -d '{"email":"test@example.com","password":"123"}'
 ```
 
 ### 3. Add a book (use token from login response)
